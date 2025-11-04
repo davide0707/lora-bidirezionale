@@ -246,10 +246,8 @@ Questo progetto è distribuito con licenza **MIT**. Vedere il file `LICENSE` per
 
 ## Autore e Contatti
 
-<div align="center"style="margin-top: 20px;">
-<text - Autore: DI FILIPPO DAVIDE >
-</text>
-</div>
+<p align="center"><strong>Autore: DI FILIPPO DAVIDE</strong></p>
+
 
 <!-- GitHub Profile Button -->
 <div align="center" style="margin-top: 20px;">
@@ -273,8 +271,5 @@ Questo progetto è distribuito con licenza **MIT**. Vedere il file `LICENSE` per
   </p>
 </div>
 
-<div align="center"style="margin-top: 20px;">
-<text -Anno: 2025 >
-</text>
-</div>
+<p align="center"><strong>Anno: 2025</strong></p>
 
