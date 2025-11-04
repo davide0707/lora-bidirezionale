@@ -246,9 +246,10 @@ Questo progetto è distribuito con licenza **MIT**. Vedere il file `LICENSE` per
 
 ## Autore e Contatti
 
-- Autore: DI FILIPPO DAVIDE 
-- Email/Contatti: /davide0707  
-- Anno: 2025
+<div align="center"style="margin-top: 20px;">
+<text - Autore: DI FILIPPO DAVIDE >
+</text>
+</div>
 
 <!-- GitHub Profile Button -->
 <div align="center" style="margin-top: 20px;">
@@ -270,5 +271,10 @@ Questo progetto è distribuito con licenza **MIT**. Vedere il file `LICENSE` per
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     <strong>GitHub:</strong> <a href="https://github.com/davide0707" style="color: #3C76D7;">davide0707</a>
   </p>
+</div>
+
+<div align="center"style="margin-top: 20px;">
+<text -Anno: 2025 >
+</text>
 </div>
 
