@@ -90,7 +90,7 @@ spiegazione dettagliata
 6. Loop di misura: lettura dati, applicazione filtro EMA, impacchettamento payload, invio periodico uplink. Gestione downlink per comandi remoti (es. ri-calibrazione).
 
 ### Filtro EMA
-- Implementazione su ciascun asse: `y[n] = α·x[n] + (1−α)·y[n−1]`, vedi  `filtro.md`.
+- Implementazione su ciascun asse: `y[n] = α·x[n] + (1−α)·y[n−1]`, vedi  `About/Filtro`.
 - Valore predefinito α tipicamente compreso tra 0,1 e 0,3 (configurabile in `app_config.h`).
 
 ### Indicatori di stato
