@@ -12,20 +12,20 @@ const base64 = require("base-64");
 // ========================
 // CONFIG
 // ========================
-const HTTP_PORT = 8082;         // porta web interfaccia
-const WS_PORT = 8081;           // porta WebSocket
-const MQTT_HOST = "10.6.9.26";
-const MQTT_PORT = 1884;
+const HTTP_PORT = port;         // porta web interfaccia
+const WS_PORT = port;           // porta WebSocket
+const MQTT_HOST = "your ip";
+const MQTT_PORT = port;
 const MQTT_USERNAME = "mqtt_user";
 const MQTT_PASSWORD = "mqtt_pass";
 
-// topic uplink (come nel tuo Python)
-const MQTT_TOPIC_UPLINK =
-  "application/TestComV2/device/0080e115063862f2/rx";
 
-// topic downlink stile ChirpStack
+const MQTT_TOPIC_UPLINK =
+  "your topic";
+
+
 const MQTT_TOPIC_DOWNLINK =
-  "application/2/device/0080e115063862f2/command/down";
+  "your topic";
 
 // ========================
 // EXPRESS HTTP
