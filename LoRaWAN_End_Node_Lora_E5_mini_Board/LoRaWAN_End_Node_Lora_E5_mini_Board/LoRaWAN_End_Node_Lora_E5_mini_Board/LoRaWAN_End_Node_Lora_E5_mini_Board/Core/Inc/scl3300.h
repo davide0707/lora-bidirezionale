@@ -2,7 +2,7 @@
  * scl3300.h
  *
  *  Created on: Oct 28, 2025
- *      Author: Figlio di troia
+ *      Author: Davide Di Filippo
  */
 
 #ifndef INC_SCL3300_H_
