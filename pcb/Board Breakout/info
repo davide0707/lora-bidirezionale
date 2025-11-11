@@ -1,0 +1,735 @@
+{
+  "uuid": "483f68991c3aa7225a6399e95457dadc",
+  "path": "Offline/LoRa-E5%20breakout%20board",
+  "name": "LoRa-E5 breakout board",
+  "content": "",
+  "created_at": "2025-11-04 11:23:44",
+  "updated_at": "2025-11-07 12:54:42",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "01ee344822b88743934441bef9df6189",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d4b19e9da7004914923d04d90ac21234": 1,
+        "b3a673c702f945b19000b84d5cb6a8c2": 1,
+        "f1549c770793539019d53089980f6627": 2,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "aca481af1d4b4562b36508f16ecbc331": 1,
+        "5ff01e5b28266f76e3c6ac889a7fdd07": 1,
+        "8710649fb7fe4a669191a84caab2a9a0": 1,
+        "1cceb85e9f5f4b8babd5f3b3493797f8": 2,
+        "7b97abd1af809d9a86376cb109d7e7f8": 1,
+        "2cfdc00cbefb4236b96246f9da3055d0": 1,
+        "2f54e15d002d45d5ac260b1f982345a2": 4,
+        "154b66255b01a09bf1c88bb1ea89be78": 7,
+        "3d033fcb6d334c25b65a754834cf5aaf": 5,
+        "3b9468f6b64c4e399745ffdbd46705a3": 1,
+        "0ddaf8b5e1fd4869924f690a8a234e96": 1,
+        "df8405e2fa0e40a984c435ad4c8d5cf3": 1,
+        "faac4ade3bc4e3dd5ad2239bdc7375c1": 2,
+        "2d44a45061784cca949017eb029031c6": 2,
+        "b210af5a1436310a86e8b108e2e5a90b": 2,
+        "f8b72055cbbfbb97e07ad13e80f24bcc": 1,
+        "636026a8454f4e27bd7289d5e1e5c55c": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "3fe66dd7f5a04231964466a415f06105": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "combined antenna ufl sma",
+          1,
+          "COMBINED ANTENNA UFL SMA",
+          "ANT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SKRPACE010",
+          2,
+          "KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6",
+          "BOOT,RESET",
+          {
+            "Manufacturer Part": "SKRPACE010",
+            "Manufacturer": "ALPS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C139797"
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "CL10A225KP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1607"
+          }
+        ],
+        [
+          "100nF",
+          10,
+          "C0603",
+          "C3,C5,C6,C7,C8,C9,C10,C11,C13,C15",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19702"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "0603",
+          "C16",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "USBLC6-2P6",
+          1,
+          "SOT-666-6_L1.6-W1.2-P0.50-LS1.6-BR",
+          "D1",
+          {
+            "Manufacturer Part": "USBLC6-2P6",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C15999"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H1,H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "Ext Pwr",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "Blue",
+          1,
+          "LED-0603",
+          "LED3",
+          {
+            "Manufacturer Part": "Blue light 0603",
+            "Manufacturer": "KENTO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2288"
+          }
+        ],
+        [
+          "SI2301",
+          1,
+          "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+          "Q1",
+          {
+            "Manufacturer Part": "SI2301",
+            "Manufacturer": "PUOLOP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C351397"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "33",
+          4,
+          "R0603",
+          "R4,R8,R11,R12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "330",
+          1,
+          "0603",
+          "R5",
+          {
+            "Manufacturer Part": "RC0603FR-07330RL",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105881"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R6,R7",
+          {
+            "Manufacturer Part": "0603WAF5101T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C23186"
+          }
+        ],
+        [
+          "UART Pwr",
+          1,
+          "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+          "SJ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+          "SJ3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TEST PIN",
+          "T1,T3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "3.3",
+          2,
+          "TEST PIN",
+          "T2,T4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XC6210B332MR",
+          1,
+          "SOT-23-5",
+          "U1",
+          {
+            "Manufacturer Part": "XC6210B332MR",
+            "Manufacturer": "TOREX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C47719"
+          }
+        ],
+        [
+          "LM66100",
+          1,
+          "SC-70 (6)",
+          "U2",
+          {
+            "Manufacturer Part": "LM66100DCK",
+            "Manufacturer": "Texas Instruments",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LoRa-E5",
+          1,
+          "LORA-E5",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Seedstudio",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "CH330N",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U4",
+          {
+            "Manufacturer Part": "CH330N",
+            "Manufacturer": "WCH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C108996"
+          }
+        ],
+        [
+          "SCL3300-D01",
+          1,
+          "DFL-12_L8.6-W7.0-P1.00-LS7.6-BL",
+          "U5",
+          {
+            "Manufacturer Part": "SCL3300-D01",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22416657"
+          }
+        ],
+        [
+          "IIS3DWB",
+          1,
+          "IIS3DWB",
+          "U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TYPE-C-31-M-12",
+          1,
+          "USB-C_SMD-TYPE-C-31-M-12",
+          "USBC1",
+          {
+            "Manufacturer Part": "TYPE-C-31-M-12",
+            "Manufacturer": "Rectangular Connectors - Contacts",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165948"
+          }
+        ]
+      ],
+      "updateTime": 1762512865,
+      "createTime": 1762251824,
+      "histories": [],
+      "created_at": "2025-11-04 11:23:44",
+      "updated_at": "2025-11-07 11:54:25"
+    },
+    {
+      "uuid": "572e7e7c1a257e138ac2a425ea9a87f8",
+      "puuid": "483f68991c3aa7225a6399e95457dadc",
+      "title": "PCB_LoRa-E5 breakout board",
+      "filename": "PCB_LoRa-E5 breakout board.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "37f403b8f2c64219a86a53bf250027c8": 7,
+        "398691f1f785460098bbe5ee6590333c": 4,
+        "32461ff8e8c949bfad99c2fae0821e4d": 1,
+        "414fbcc991d94549990df6269144d4b2": 4,
+        "6cecadb1e7764552b8e7c4700a6567b5": 2,
+        "fcc297e9acda4780b1f21dd34a5fef4c": 1,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 3,
+        "9796ce52d844439588f46357e429be00": 5,
+        "e07c7ab81c384aeb86e9ce3574e96882": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "e944ec19815d45acbea002a74d6ffe9a": 1,
+        "1c9c608d93e742408123e51f310fe5bc": 1,
+        "e8901072611c4b309f15829075c906c5": 5,
+        "4d1c1ddff9fe4bedbfd1ae101aefac86": 2,
+        "e7041b0916854febbe4a29aa83ef9999": 1,
+        "05640e61f97940f287e5f11100f9ad86": 1,
+        "80eaabf84c3545849b57af9bdf677367": 1,
+        "5678573b96614061869ac731eb37c86f": 1,
+        "0254cf5e4e834c7cac477f4499c7923b": 1,
+        "bcc58561d22445c2b08855ecf0dba7c7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "combined antenna ufl sma",
+          1,
+          "COMBINED ANTENNA UFL SMA",
+          "ANT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2uF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "CL10A225KP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1607"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0603",
+          "C3",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19702"
+          }
+        ],
+        [
+          "100nF",
+          4,
+          "C0603",
+          "C8,C9,C10,C11",
+          {
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19702"
+          }
+        ],
+        [
+          "100nF",
+          3,
+          "0603",
+          "C5,C6,C7",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "330",
+          1,
+          "0603",
+          "R5",
+          {
+            "Manufacturer Part": "RC0603FR-07330RL",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105881"
+          }
+        ],
+        [
+          "USBLC6-2P6",
+          1,
+          "SOT-666-6_L1.6-W1.2-P0.50-LS1.6-BR",
+          "D1",
+          {
+            "Manufacturer Part": "USBLC6-2P6",
+            "Manufacturer": "STMicroelectronics",
+            "Supplier": "LCSC",
+            "Supplier Part": "C15999"
+          }
+        ],
+        [
+          "Ext Pwr",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "Blue",
+          1,
+          "LED-0603",
+          "LED3",
+          {
+            "Manufacturer Part": "Blue light 0603",
+            "Manufacturer": "KENTO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2288"
+          }
+        ],
+        [
+          "SI2301",
+          1,
+          "SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR",
+          "Q1",
+          {
+            "Manufacturer Part": "SI2301",
+            "Manufacturer": "PUOLOP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C351397"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "10K",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R6,R7",
+          {
+            "Manufacturer Part": "0603WAF5101T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C23186"
+          }
+        ],
+        [
+          "UART Pwr",
+          1,
+          "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+          "SJ1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED",
+          1,
+          "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+          "SJ3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SKRPACE010",
+          2,
+          "KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "SKRPACE010",
+            "Manufacturer": "ALPS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C139797"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TEST PIN",
+          "T1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "3.3",
+          1,
+          "TEST PIN",
+          "T2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "XC6210B332MR",
+          1,
+          "SOT-23-5",
+          "U1",
+          {
+            "Manufacturer Part": "XC6210B332MR",
+            "Manufacturer": "TOREX",
+            "Supplier": "LCSC",
+            "Supplier Part": "C47719"
+          }
+        ],
+        [
+          "LM66100",
+          1,
+          "SC-70 (6)",
+          "U2",
+          {
+            "Manufacturer Part": "LM66100DCK",
+            "Manufacturer": "Texas Instruments",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LoRa-E5",
+          1,
+          "LORA-E5",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "Seedstudio",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "CH330N",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U4",
+          {
+            "Manufacturer Part": "CH330N",
+            "Manufacturer": "WCH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C108996"
+          }
+        ],
+        [
+          "SCL3300-D01",
+          1,
+          "DFL-12_L8.6-W7.0-P1.00-LS7.6-BL",
+          "U5",
+          {
+            "Manufacturer Part": "SCL3300-D01",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22416657"
+          }
+        ],
+        [
+          "TYPE-C-31-M-12",
+          1,
+          "USB-C_SMD-TYPE-C-31-M-12",
+          "USBC1",
+          {
+            "Manufacturer Part": "TYPE-C-31-M-12",
+            "Manufacturer": "Rectangular Connectors - Contacts",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165948"
+          }
+        ]
+      ],
+      "updateTime": 1762516482,
+      "createTime": 1762258826,
+      "histories": [],
+      "created_at": "2025-11-04 13:20:26",
+      "updated_at": "2025-11-07 12:54:42"
+    }
+  ],
+  "sort": [],
+  "title": "LoRa-E5 breakout board",
+  "foldername": "LoRa-E5 breakout board",
+  "schfilename": "LoRa-E5 breakout board.json",
+  "schfilemtime": 1762512865183
+}
