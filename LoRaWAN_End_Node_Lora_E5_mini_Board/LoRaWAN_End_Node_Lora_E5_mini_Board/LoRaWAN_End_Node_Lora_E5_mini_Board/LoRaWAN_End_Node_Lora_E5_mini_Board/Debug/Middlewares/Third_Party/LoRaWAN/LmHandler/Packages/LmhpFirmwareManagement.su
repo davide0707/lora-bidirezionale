@@ -1,8 +1,0 @@
-../Drivers/CMSIS/Include/core_cm4.h:1933:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:151:15:LmhpFirmwareManagementPackageFactory	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:157:13:LmhpFirmwareManagementInit	32	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:174:13:LmhpFirmwareManagementIsInitialized	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:179:13:LmhpFirmwareManagementIsTxPending	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:184:13:LmhpFirmwareManagementProcess	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:189:13:LmhpFirmwareManagementOnMcpsIndication	64	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpFirmwareManagement.c:357:13:OnRebootTimer	16	static

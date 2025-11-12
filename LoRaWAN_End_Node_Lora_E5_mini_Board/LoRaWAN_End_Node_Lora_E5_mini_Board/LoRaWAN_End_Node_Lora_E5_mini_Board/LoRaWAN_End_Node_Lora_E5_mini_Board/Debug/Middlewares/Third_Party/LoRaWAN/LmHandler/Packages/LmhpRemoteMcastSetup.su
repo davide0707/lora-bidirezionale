@@ -1,8 +1,0 @@
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:219:15:LmhpRemoteMcastSetupPackageFactory	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:224:13:LmhpRemoteMcastSetupInit	40	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:260:13:LmhpRemoteMcastSetupIsInitialized	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:265:13:LmhpRemoteMcastSetupIsTxPending	4	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:270:13:LmhpRemoteMcastSetupProcess	32	static,ignoring_inline_asm
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:347:13:LmhpRemoteMcastSetupOnMcpsIndication	136	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:672:13:OnSessionStartTimer0	16	static
-../Middlewares/Third_Party/LoRaWAN/LmHandler/Packages/LmhpRemoteMcastSetup.c:685:13:OnSessionStopTimer0	16	static
